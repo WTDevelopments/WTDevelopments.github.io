@@ -1,0 +1,47 @@
+
+
+
+
+
+
+	
+
+Mis Datos:
+
+Mauricio West :
+Analista de Sistemas con orientación en desarrollo de software.
+Técnico en soporte operativo de PC.
+
+E-mail:
+mauriciopw@hotmail.com.
+mauriciowest@redpower.com.ar
+
+Junin(Buenos Aires)Argentina
+
+
+
+phpToAjax 	
+
+
+
+
+
+	
+
+Clase PHP que permite incluir AJAX en tu WEB
+
+Esta es una clase php creada integramente en php que permite muy facilmente incluir un AJAX a tu web.
+
+Simplemente utilizando esta clase creas un link y la clase te crea la llamada a ajax y le dice donde tiene que abrir el contenido.
+
+ 
+
+	
+
+Proyectos en los que estoy trabajando
+
+phpToAjax (permite introducir ajax en tu web de una manera sencilla y sin tener que programar nada en JavaScript).
+
+htmlExplode (Permite parsear y analizar el contenido de una web).
+
+ 

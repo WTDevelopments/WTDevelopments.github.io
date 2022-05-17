@@ -73,8 +73,6 @@
           <li class="fork">
             <a href="About.html" >About</a>
           </li>
-
-      
         </ul>
       </nav>
     </div>
@@ -83,9 +81,8 @@
     <div class="wrapper">
       <section>
         <div id="title">
-          <div class="titAndLogo">
-            <h1>WTDev</h1> <img src="img/MiLogo.png" width="50px">
-          </div>
+          <h1>WTDev Web</h1>
+         
           <hr />
           <span class="credits left"
             >Project maintained by
@@ -100,13 +97,10 @@
         <h2 id="welcome-to-github-pages">Welcome to WT Dev</h2>
 
         <p>
-          Hi, My name is Mauricio West.
-        </p>
-          <p>
-          I'm a developer for more than <b>30 years</b> and, 
+          Hi, My name is Mauricio West, I'm a developer for more than <b>30 years</b> and, 
           I´ve created this initiative called WTDev. </br>
-       
-       
+        </p>
+        <p>
           My projects goes from console applications in c++ to Web Applications and Video Games.        
         </p>
         <hr>
