@@ -1,0 +1,41 @@
+SET SOURCEFOLDER=%1
+SET TARGETFOLDER=%2
+
+MD %TARGETFOLDER%
+
+CALL MakeMove 1-9 0
+CALL MakeMove 1-9 1
+CALL MakeMove 1-9 2
+CALL MakeMove 1-9 3
+CALL MakeMove 1-9 4
+CALL MakeMove 1-9 5
+CALL MakeMove 1-9 6
+CALL MakeMove 1-9 7
+CALL MakeMove 1-9 8
+CALL MakeMove 1-9 9
+
+CALL MakeMove A-B a
+CALL MakeMove A-B b
+CALL MakeMove C-D c
+CALL MakeMove C-D d
+CALL MakeMove E-F e
+CALL MakeMove E-F f
+CALL MakeMove G-H g
+CALL MakeMove G-H h
+CALL MakeMove I-J i
+CALL MakeMove I-J j
+CALL MakeMove K-L k
+CALL MakeMove K-L l
+CALL MakeMove M-N m
+CALL MakeMove M-N n
+CALL MakeMove O-P o
+CALL MakeMove O-P p
+CALL MakeMove Q-R q
+CALL MakeMove Q-R r
+CALL MakeMove S-T s
+CALL MakeMove S-T t
+CALL MakeMove U-V u
+CALL MakeMove U-V v
+CALL MakeMove W-Y-Z w
+CALL MakeMove W-Y-Z y
+CALL MakeMove W-Y-Z z
