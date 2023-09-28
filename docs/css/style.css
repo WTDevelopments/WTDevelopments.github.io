@@ -801,3 +801,14 @@ screen and (max-width: 480px) {
     }
  
 }
+
+.contentProfile{
+display:flex;
+
+}
+.profilePicture{
+    width: 200px;
+}
+.profilePicture img{
+    width: 100px;
+}
