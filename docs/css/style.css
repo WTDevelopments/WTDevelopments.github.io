@@ -715,9 +715,9 @@ dt {
 
 section {
     max-width: 650px;
-    padding: 30px 0px 50px 0px;
-    margin: 20px 0;
-    margin-top: 70px
+    padding: 0px 0px 50px 0px;
+    margin: 0px 0;
+    margin-top: 40px
 }
 
 section #title {
@@ -759,13 +759,14 @@ section #title .credits.right {
     float: right
 }
 div.titAndLogo {
-  
+    /* padding-top: 1em; */
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-between;
+    justify-content:flex-end;
 }
+
 @media print,
 screen and (max-width: 720px) {
     #title .credits {
@@ -789,11 +790,11 @@ screen and (max-width: 720px) {
 @media print,
 screen and (max-width: 480px) {
     #header {
-        margin-top: -20px
+        /* margin-top: -20px */
     }
 
     section {
-        margin-top: 40px
+        /* margin-top: 40px */
     }
 
     nav {
