@@ -504,7 +504,7 @@ ol,
 table,
 pre,
 dl {
-    margin: 0 0 20px
+    margin: 0 0 10px
 }
 
 h1,
@@ -726,9 +726,9 @@ dt {
 
 section {
     max-width: 650px;
-    padding: 0px 0px 50px 0px;
+    padding: 0px 0px 0px 0px;
     margin: 0px 0;
-    margin-top: 40px
+    /* margin-top: 40px */
 }
 
 section #title {
@@ -738,7 +738,7 @@ section #title {
     padding: 25px 0 5px 0; */
 
     margin: 0 0 0px 0;
-    padding: 10px 0 0px 0;
+    padding: 0px 0 0px 0;
 
     display: flex; 
     flex-direction: row;
@@ -786,7 +786,7 @@ section #title .credits.right {
 /* } */
 .welcome {
     display: flex;
-    height: 94px;
+    height: 74px;
     flex-direction: column;
     justify-content: center;
 
@@ -804,7 +804,7 @@ section #title .credits.right {
  .card {
      padding: 2px;
      margin: 2px;
-     margin-top: 40px;
+     margin-top: 20px;
      flex: 0 1 25%;
      border-radius: 10px;    
      border: solid rgb(110, 110, 110) 1px;
@@ -836,7 +836,7 @@ section #title .credits.right {
      display: flex;  
      flex-direction: column;   
      justify-content: center;
-     /* background-color: #9e9e9e; */
+     background-color: #ffffff; 
      margin: 5px;
      padding: 5px;
      border-radius: 5px;
@@ -863,6 +863,7 @@ section #title .credits.right {
      padding: 5px;
      border-radius: 5px;
      border: solid rgb(110, 110, 110) 1px;
+     background-color: #ffffff; 
      
      
      
@@ -877,6 +878,7 @@ section #title .credits.right {
      border-radius: 5px;
      border: solid rgb(110, 110, 110) 1px;
      font-size: 0.8em;
+     background-color: #ffffff; 
      
      
  }
@@ -1054,21 +1056,14 @@ screen and (max-width: 480px) {
         
     }
 
-    .cardContent {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        flex-direction: row;
-        padding: 5px;
-     }
       
      .card {
          padding: 2px;
          margin: 2px;
-         margin-top: 10px;
+         margin-top: 20px;
          flex: 1 1 25%;
          border-radius: 10px;    
-         border: solid rgb(110, 110, 110) 1px;
+         border: solid rgb(223, 223, 223) 1px;
          flex-direction: column;
          /* align-items:flex-start; */
          align-content: flex-start; 
@@ -1079,101 +1074,9 @@ screen and (max-width: 480px) {
          /* box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.92) */
      }
     
-     .card:hover{
-        /* box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.92) */
-        
-        box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.92);
-        
-     }
-     .card_head{    
-         align-content:space-around;
-         display: flex;
-         flex-direction: row;    
-         color:#000000;
-         
-     }
-     .card_head div{    
-         flex: 1 1 5%;  
-         display: flex;  
-         flex-direction: column;   
-         justify-content: center;
-         /* background-color: #9e9e9e; */
-         margin: 5px;
-         padding: 5px;
-         border-radius: 5px;
-         border: solid rgb(110, 110, 110) 1px;
-         
-         
-     }
      
-     .card_img{        
-         display: flex;
-         flex-direction: row;  
-         align-content:space-around;
-         border: solid rgb(0, 0, 0) 1px;
-     }
-     .card_img img{
-         flex: 1 0 5%; 
-     }
-     .card_detail{
-        display: flex;
-        flex-direction:row;     
-        /* align-items: center;  */
-        justify-content: center;
-         margin: 5px;
-         padding: 5px;
-         border-radius: 5px;
-         border: solid rgb(110, 110, 110) 1px;
-         
-         
-         
-     }
-     .card_footer{
-        display: flex;
-        flex-direction:row;     
-        /* align-items: center;  */
-        justify-content: center;
-         margin: 5px;
-         padding: 5px;
-         border-radius: 5px;
-         border: solid rgb(110, 110, 110) 1px;
-         font-size: 0.8em;
-         
-         
-     }
-    
-     .card_title{     
-        display: flex;
-        flex-direction:row;     
-        /* align-items: center;  */
-        justify-content: center;
-        margin: 5px;
-        padding: 5px;
-        border-radius: 5px;
-        /* font-size: smaller; */
-        
-        
-        max-width: 100%; 
-        background-color: #105e9e;
-        color: #000;  
-        border: solid rgb(110, 110, 110) 1px;
-    }
-    .card_title div{
-        white-space: nowrap;
-        font-size: 1.2 rem;
-        color: #ffffff;
-        max-width: 100%; 
-        /* background-color:#011361; */
-        
-    } 
-    .card :hover{
-        /* color:#000; */
-        /* all:unset; */
-        text-decoration: none;
-        
-        /* background-color:#011361; */
-        
-    } 
+     
+     
  
 }
 
