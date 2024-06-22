@@ -788,9 +788,7 @@ section #title .credits.right {
     display: flex;
     height: 74px;
     flex-direction: column;
-    justify-content: center;
-
-    
+    justify-content: center;    
 
 }
 .cardContent {
@@ -936,7 +934,7 @@ screen and (max-width: 720px) {
     section #title {
     
     
-        margin: 80px 0 0 0;
+        margin: 20px 0 0 0;
 
     }
     /* #title .credits {
@@ -1014,7 +1012,7 @@ screen and (max-width: 480px) {
     section #title {
     
     
-        margin: 120px 0 0 0;
+        margin: 10px 0 0 0;
 
     }
     #header nav ul {
