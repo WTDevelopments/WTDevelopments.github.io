@@ -828,6 +828,7 @@ section #title .credits.right {
      flex-direction: row;    
      color:#000000;
      
+     
  }
  .card_head div{    
      flex: 1 1 5%;  
@@ -896,6 +897,8 @@ section #title .credits.right {
     background-color: #105e9e;
     color: #000;  
     border: solid rgb(110, 110, 110) 1px;
+    
+
 }
 .card_title div{
     white-space: nowrap;
