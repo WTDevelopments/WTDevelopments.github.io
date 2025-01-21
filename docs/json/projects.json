@@ -1,0 +1,412 @@
+[
+    {
+      "id": 13,
+      "year": "2024",
+      "techStack": ["GODOT"],
+      "category": "VideoGame",
+      "en": {
+        "title": "Pong Video Game",
+        "description":"A video game: the first example developed to learn Godot.",
+        "detailDescription":["Detailed description: A video game, the first example developed to learn Godot."],
+        "status": "Completed",
+        "altCardImage": "Card image alternative text"
+      },
+      "es": {
+        "title": "Videojuego Pong",
+        "description":"Un videojuego: el primer ejemplo desarrollado para aprender Godot.",
+        "detailDescription":["Descripción detallada: Un videojuego, el primer ejemplo desarrollado para aprender Godot."],
+        
+        "status": "Completado",
+        "altCardImage": "Texto alternativo de la imagen de la tarjeta"
+      },
+      "cardImage": "../img/card/card_winpong.png",
+      "media": [
+        { "type": "image","width":"50%", "url": "../img/01300/WinPong-001.png" },
+        { "type": "image","width":"50%", "url": "../img/01300/WinPong-002.png" },
+        { "type": "youtube","width":"340", "height":"236", "url": "https://www.youtube.com/embed/L0JCGDflPrM" }
+      ],
+      "linksAndDownloads": [
+        { "text": "Git Repo:",      "url": "https://github.com/mwest0101/dev.godot.pong.git" },
+        { "text": "Download Zip:",  "url": "../bin/godot/WingPong.zip" }
+      ]
+    },
+    {
+      "id": 12,
+      "year": "2023",
+      "techStack": ["React Native"],
+      "category": "Mobile",
+      "en": {
+        "title": "NASA News",
+        "description":"A project developed with React Native that uses NASA's API to access the latest news.",
+        "detailDescription":["Project developed with React Native , that uses the Api of Nasa to acces to the last news"],
+        "status": "Completed",
+        "altCardImage": "NASA App Image"
+      },
+      "es": {
+        "title": "Noticias de la NASA",
+        "description":"Un proyecto desarrollado con React Native que utiliza la API de la NASA para acceder a las últimas noticias.",
+        "detailDescription":["Proyecto desarrollado con ReactNative , que usa la api de la nasa para acceder a las últimas noticias"],
+        "status": "Completado",
+        "altCardImage": "Imagen de la app de la NASA"
+      },
+      "cardImage": "../img/card/card_nasaapi_reactnative.png",
+      "media": [
+        { "type": "image","width":"30%", "url": "../img/01200/NasaApi_Captura_01.png" },
+        { "type": "image","width":"30%", "url": "../img/01200/NasaApi_Captura_02.png" }
+      ],
+      "linksAndDownloads": [
+        { "text": "Git Repo (ReactNative NasaApi)", "url": "https://github.com/mwest0101/reactNative_cursoCertificado_NasaApi" }
+        
+      ]
+    },
+    {
+        "id": 11,
+        "year": "2023",
+        "techStack": ["React Native"],
+        "category": "Mobile",
+        "en": {
+          "title": "Pomodoro App",
+          "description":"Mobile app, maded in ReactNative to count the time working",
+          "detailDescription":["Project developed with React Native , Uses to count the time working"],
+          "status": "Completed",
+          "altCardImage": "NASA App Image"
+        },
+        "es": {
+          "title": "Pomodoro App",
+          "description":"Aplicacion mobile en reactnative para contar el tiempo de trabajo",
+          "detailDescription":["Aplicacion mobile en reactnative para contar el tiempo de trabajo"],
+          "status": "Completado",
+          "altCardImage": "Imagen de la app de la NASA"
+        },
+        "cardImage": "../img/card/card_pomodoro_app_reactnative.png",
+        "media": [
+          { "type": "image","width":"30%", "url": "../img/01100/Pomodoro_Captura_01.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01100/Pomodoro_Captura_02.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01100/Pomodoro_Captura_03.PNG" }
+        ],
+        "linksAndDownloads": [
+          { "text": "Git Repo (ReactNative Pomodoro)","width":"30%", "url": "https://github.com/mwest0101/reactNative_cursoCertificado_pomodoro.git" }
+          
+        ]
+      },{
+        "id": 10,
+        "year": "2023",
+        "techStack": ["React Native"],
+        "category": "Mobile",
+        "en": {
+          "title": "Basic Examples",
+          "description":"Basic examples to get started with React Native and navigate methods",
+          "detailDescription":["Basic examples to get started with React Native and navigate methods Managment Views,Navitagion Tabs,Forms"],
+          "status": "Completed",
+          "altCardImage": "Basic Example, ReactNative"
+        },
+        "es": {
+          "title": "Ejemplos Basicos",
+          "description":"Ejemplos basicos para iniciarse en el uso de React Native y metodos de navegacion",
+          "detailDescription":["Ejemplos basicos para iniciarse en el uso de React Native y metodos de navegacion"],
+          "status": "Completado",
+          "altCardImage": "Ejemplo basico, ReactNative"
+        },
+        "cardImage": "../img/card/card_basic_examples_reactnative.png",
+        "media": [
+          { "type": "image","width":"30%", "url": "../img/01000/Eje01_Captura_01.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje02_Captura_01.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje03_Captura_01.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje03_Captura_02.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje03_Captura_03.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje04_Captura_01.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje04_Captura_02.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje04_Captura_03.PNG" },
+          { "type": "image","width":"30%", "url": "../img/01000/Eje05_Captura_01.PNG" }
+
+        ],
+        "linksAndDownloads": [
+          { "text": "Git (Management of views)",            "url": "https://github.com/mwest0101/ReactNative_BasicExamples/blob/master/mi-practicos-clase_01" },
+          { "text": "Git (Management of buttons)",          "url": "https://github.com/mwest0101/ReactNative_BasicExamples/blob/master/mi-practicos-clase_02" },
+          { "text": "Git (Manager of navigation)",          "url": "https://github.com/mwest0101/ReactNative_BasicExamples/blob/master/mi-practicos-clase_03" },
+          { "text": "Git (Manager of navigations/Tabs)",    "url": "https://github.com/mwest0101/ReactNative_BasicExamples/blob/master/mi-practicos-clase_04" },
+          { "text": "Git (Manager of Forms)",               "url": "https://github.com/mwest0101/ReactNative_BasicExamples/tree/master/mi-practicos-clase_05" }
+
+          
+        ]
+      },{
+        "id": 9,
+        "year": "2022",
+        "techStack": ["Laravel","PHP"],
+        "category": "Web",
+        "en": {
+          "title": "Lubri Center V1.0",
+          "description":"Web System to admin Lubrication Center",
+          "detailDescription":["That is a fully sistem to lubricenters, its allow admin of services, admin of cars and the supplies used .  Also it allow emit alerts remembering to the users and customers the next services to do."],
+          "status": "Completed",
+          "altCardImage": "Image Lubricenter Web Admin"
+        },
+        "es": {
+          "title": "Lubri Center V1.0",
+          "description":"Sistema web para administración de lubricentros",
+          "detailDescription":["Este es un sistema completo para administracion de servicios de lubricentros, Administrar autos y reemplazos. Tambien permite alertar automaticamente a los clientes sobres los proximos servicios a realizar"],
+          "status": "Completado",
+          "altCardImage": "Imagen del administrador de lubricentros web"
+        },
+        "cardImage": "../img/card/card_sistemakit_laravel.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00900/Services.png" },
+          { "type": "image","width":"100%", "url": "../img/00900/MobileServices.png" },
+          { "type": "image","width":"100%", "url": "../img/00900/addServices.png" },
+          { "type": "image","width":"100%", "url": "../img/00900/addCar.png" }
+    
+
+        ],
+        "linksAndDownloads": [
+          { "text": ".",            "url": "" }          
+
+          
+        ]
+      },{
+        "id": 8,
+        "year": "2022",
+        "techStack": ["React","Node","Express"],
+        "category": "Web",
+        "en": {
+          "title": "Teaching system manager",
+          "description":"System to manage teachers of a school ",
+          "detailDescription":["Teaching administration system System to manage teachers of a school"],
+          "status": "In development(Suspended)",
+          "altCardImage": "Image of systema manager for schools"
+        },
+        "es": {
+          "title": "Sistem. Admin. Doc.",
+          "description":"Sistema de administracion docente",
+          "detailDescription":["Sistema administrador para escuelas y maestros "],
+          "status": "En desarrollo(Suspendido)",
+          "altCardImage": "Imagen del sistema administrador para escuelas"
+        },
+        "cardImage": "../img/card/card_sistema_docente_React.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00800/SistemaDocente-React.png" }
+          
+    
+
+        ],
+        "linksAndDownloads": [
+          { "text": "Github: (Sistema Docente)",            "url": "https://github.com/mwest0101/SistemaDocenteReact.git" }          
+
+          
+        ]
+      },{
+        "id": 7,
+        "year": "2022",
+        "techStack": ["Unity3D"],
+        "category": "VideoGame",
+        "en": {
+          "title": "Rebotank3D",
+          "description":"3d Tank War video game where the main concept is that the bullets and misil are bounce.",
+          "detailDescription":["3d Tank War video game where the main concept is that the bullets and misil are bounce."],
+          "status": "In develompent",
+          "altCardImage": "Rebotank3D Image"
+        },
+        "es": {
+          "title": "Rebotank3D",
+          "description":"Video juego de tanques de guerra, donde el principal concepto es el rebote de las balas y misiles ",
+          "detailDescription":["Video juego de tanques de guerra, donde el principal concepto es el rebote de las balas y misiles  "],
+          "status": "In develompent",
+          "altCardImage": "Rebotank3D Image"
+        },
+        "cardImage": "../img/card/card_rebotank3D_unity.png",
+        "media": [
+          { "type": "image","width":"100%", "url":  "../img/00700/Rebotank_Escenary_01.png" },
+          { "type": "image","width":"50%", "url":   "../img/00700/Rebotank_Tank01.png" },
+          { "type": "image","width":"50%", "url":   "../img/00700/Rebotank_Enemy_01.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Tanque_Azul_Lateral_Super_V001.png" },          
+          { "type": "image","width":"25%", "url":   "../img/00700/Tanque_Marron_Lateral_Super_V001.png" },          
+          { "type": "image","width":"25%", "url":   "../img/00700/Tanque_Rojo_Lateral_Super_V001.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Tanque_Verde_Lateral_Super_V001.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Player_BLUE.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Player_BROWN.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Player_GREEN.png" },
+          { "type": "image","width":"25%", "url":   "../img/00700/Player_RED.png" }
+        ],
+        "linksAndDownloads": [
+            { "text": "Facebook - Rebotank 3D (VideoGame) (Rebotank3D)" ,"url": "https://www.facebook.com/profile.php?id=100095030215068"},          
+            { "text": "Instagram - Rebotank 3D (VideoGame) (Rebotank3D)","url": "https://www.instagram.com/wttechdevelopments/"}        
+          
+
+          
+        ]
+      }
+      ,{
+        "id": 6,
+        "year": "2022",
+        "techStack": ["WordPress","PHP","Mysql"],
+        "category": "Web",
+        "en": {
+          "title": "La Gazeta Lat.",
+          "description":"News Web Magazine.",
+          "detailDescription":["News Web Magazine."],
+          "status": "Completed",
+          "altCardImage": "News Web Image"
+        },
+        "es": {
+          "title": "La Gazeta Lat.",
+          "description":"Gazeta/Diario online",
+          "detailDescription":["Gazeta/Diario online "],
+          "status": "Completado",
+          "altCardImage": "Imagen del diario online"
+        },
+        "cardImage": "../img/card/card_lagazeta_latinoamericana_wordpress.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00600/LaGazetaLatinoamericana.png" }
+          
+        ],
+        "linksAndDownloads": [
+          { "text": "Web (Produccion):",            "url": "https://lagazetalatinoamericana.net" }          
+
+          
+        ]
+      } ,{
+        "id": 5,
+        "year": "2020",
+        "techStack": ["Python"],
+        "category": "Console",
+        "en": {
+          "title": "Unifile",
+          "description":"Unify source code in one alone file.",
+          "detailDescription":["Unify source code in one alone file. "],
+          "status": "In develompent",
+          "altCardImage": "UnifyImage"
+        },
+        "es": {
+          "title": "Unifile",
+          "description":"Unifica el codigo fuente de varios archivos en un solo.",
+          "detailDescription":["Unifica el codigo fuente de varios archivos en un solo."],
+          "status": "In develompent",
+          "altCardImage": "UnifyImage"
+        },
+        "cardImage": "../img/card/card_unifile_python.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00500/unifile_python.png" }
+          
+        ],
+        "linksAndDownloads": [
+          { "text": ".",            "url": "." }          
+
+          
+        ]
+      },{
+        "id": 4,
+        "year": "2021",
+        "techStack": ["C++"],
+        "category": "Console",
+        "en": {
+          "title": "ATG",
+          "description":"Create Ascci Art Text and Ascci Box in colors. ",
+          "detailDescription":["Create Ascci Art Text and Ascci Box in colors."],
+          "status": "Completed",
+          "altCardImage": "ATGScreenshoot"
+        },
+        "es": {
+          "title": "ATG",
+          "description":"Crea text en formato ASCCI Art con varios tipos de fuentes y colores",
+          "detailDescription":["Crea text en formato ASCCI Art con varios tipos de fuentes y colores"],
+          "status": "Completado",
+          "altCardImage": "ATGScreenshoot"
+        },
+        "cardImage": "../img/card/card_atg_cpp.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00400/atg.png" }
+          
+        ],
+        "linksAndDownloads": [
+          { "text": "atg 32 bits (Windows)",            "url": "../files/atg.exe" },          
+          { "text": "atg 64 bits (Windows)",            "url": "../files/atg64.exe" }          
+        ]
+      },{
+        "id": 3,
+        "year": "2021",
+        "techStack": ["C++"],
+        "category": "Console",
+        "en": {
+          "title": "CTC",
+          "description":" Change Text Color in consoles  ",
+          "detailDescription":[" Change Text Color in consoles"],
+          "status": "Completed",
+          "altCardImage": "CTC_Image"
+        },
+        "es": {
+          "title": "CTC",
+          "description":"Cambia el color de los texto en la consola.",
+          "detailDescription":["Cambia el color de los texto en la consola."],
+          "status": "Completed",
+          "altCardImage": "CTC_Image"
+        },
+        "cardImage": "../img/card/card_ctc_cpp.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00300/ctc.png" }
+          
+        ],
+        "linksAndDownloads": [
+          { "text": "CTC 32 Bits.",            "url": "../files/ctc.exe" },         
+          { "text": "CTC 64 Bits.",            "url": "../files/ctc64.exe" }          
+        ]
+      },{
+        "id": 2,
+        "year": "2023",
+        "techStack": ["Python"],
+        "category": "Console",
+        "en": {
+          "title": "MDDF",
+          "description":"Create folder and subfolder with the modify date.",
+          "detailDescription":["Create folder and subfolder organizing files by date as year, month and day"],
+          "status": "Completed",
+          "altCardImage": "MDDF_Image"
+        },
+        "es": {
+          "title": "MDDF",
+          "description":"Crea carpetas y and subcarpetas por la fecha de modificacion",
+          "detailDescription":["Crea carpetas organizando los archivos por fecha, como año, mes y dia"],
+          "status": "Completed",
+          "altCardImage": "MDDF_Image"
+        },
+        "cardImage": "../img/card/card_mddf2_cpp.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00200/mddf2-help.png" },
+          { "type": "image","width":"100%", "url": "../img/00200/mddf2-processing.png" }
+          
+        ],
+        "linksAndDownloads": [
+          { "text": "MDDF2.",            "url": "../files/mddf2.rar" }
+          
+        ]
+      },{
+        "id": 1,
+        "year": "2007",
+        "techStack": ["PHP"],
+        "category": "Console",
+        "en": {
+          "title": "PhpToAjax",
+          "description":"Automatic Librery that generates HTML and Ajax(JS) code.",
+          "detailDescription":["PHP Lib that generates html and js files usinh AJAX."],
+          "status": "Completed",
+          "altCardImage": "phpToAjax_Image"
+        },
+        "es": {
+          "title": "PhpToAjax",
+          "description":"Libreria PHP que automaticamente genera HTML y Ajax(JS) code",
+          "detailDescription":["Libreria php que genera codifo html y ajax js a partir de PHP"],
+          "status": "Completed",
+          "altCardImage": "phpToAjax_Image"
+        },
+        "cardImage": "../img/card/card_phpToAjax_php.png",
+        "media": [
+          { "type": "image","width":"100%", "url": "../img/00100/phpToAjax_php.png" }
+          
+          
+        ],
+        "linksAndDownloads": [
+          { "text": "Web page.",                        "url": "https://phptoajax.sourceforge.net/" },
+          { "text": "Soruce Forge(Project)",            "url": "https://sourceforge.net/projects/phptoajax/" }
+          
+        ]
+      }
+  ]
+  

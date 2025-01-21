@@ -1,0 +1,198 @@
+[
+    {
+		"name": "PHP",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_php.svg"
+	},
+    {
+		"name": "HTML",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_html.svg"
+	},
+	{
+		"name": "CSS",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_css.svg"
+	},
+	{
+		"name": "C++",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_cpp.svg"
+	},
+    {
+		"name": "JSON",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_json.svg"
+	},
+	{
+		"name": "Unity 3D",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_unity.svg"
+	},
+    
+	{
+		"name": "Test Tools",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_light_testcafe.svg"
+	},
+	{
+		"name": "Project Manager Tools",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_manager.svg"
+	},
+    {
+		"name": "GODOT",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_godot.svg"
+	},
+	{
+		"name": "NODE",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_node.svg"
+	},
+	{
+		"name": "REACT",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_reactjs.svg"
+	},{
+		"name": "REACT NATIVE",
+		"level": "Junior",
+		"image": "../img/icons/langs/react-native-logo.png"
+	},
+	{
+		"name": "Angular",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_angular.svg"
+	},
+	{
+		"name": "NODE EXPRESS",
+		"level": "Junior",
+		"image": "../img/icons/langs/folder_type_express.png"
+	},
+
+	{
+		"name": "MONGODB",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_mongo.svg"
+	},
+	{
+		"name": "Mysql",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_mysql.svg"
+	},
+	{
+		"name": "Postrgres SQL",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_postgres.svg"
+	},
+	
+	{
+		"name": "JS",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_js.svg"
+	},
+	{
+		"name": "XML",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_xml.svg"
+	},
+	{
+		"name": "BOOTSTRAP",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_bootstrap.svg"
+	},
+	{
+		"name": "GIT",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_git.svg"
+	},
+	{
+		"name": "SVN",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_subversion.svg"
+	},
+	{
+		"name": "Arduino",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_arduino.svg"
+	},
+	{
+		"name": "PYTHON",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_python.svg"
+	},
+	{
+		"name": "ANDROID",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_android.svg"
+	},
+	{
+		"name": ".NET",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_dotnet.svg"
+	},
+	{
+		"name": "Java",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_java.svg"
+	},
+	{
+		"name": "Pascal",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_pascal.svg"
+	},
+	{
+		"name": "Delphi Pascal",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_delphi.svg"
+	},
+	{
+		"name": "Clipper",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_clipper.png"
+	},
+	{
+		"name": "Cobol",
+		"level": "Junior",
+		"image": "../img/icons/langs/file_type_cobol.svg"
+	},
+	{
+		"name": "QBasic",
+		"level": "Senior",
+		"image": "../img/icons/langs/file_type_qbasic.jpg"
+	},
+    {
+		"name": "J2ME",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_j2me.svg"
+	},
+	{
+		"name": "Visual Basic",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_vb.svg"
+	},
+    {
+		"name": "SOAP",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_soap.svg"
+	},
+	{
+		"name": "WML",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_wxml.svg"
+	},
+	{
+		"name": "WAP",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_wap.svg"
+	},
+	{
+		"name": "VISUAL STUDIO 6.0",
+		"level": "Semi Senior",
+		"image": "../img/icons/langs/file_type_vb6.jpg"
+	}
+
+
+
+
+]

@@ -1,0 +1,133 @@
+{
+	"en": {
+		"nav": {
+			"home": "Home",
+			"projects": "Projects",
+			"languages": "Languages",
+			"contact": "Contact"
+		},
+		"home": {
+			"title": "Welcome",
+            "lastWorks": "Last Works",
+            "description": [
+				"I am Mauricio West, Systems Analyst, a highly motivated and experienced professional in web and software development in general, with a solid background in the development of Web, Mobile and Desktop applications.",
+				"With a career spanning more than 25 years, I have worked in the development of intensive use portals for companies in Spain, the United States and Argentina, as well as for cell phone companies.",
+				"During this time, I have acquired skills in PHP, MySQL, JavaScript, Payment Gateways, Unity 3D, Java, C++, Node, React, Python, among others.",
+				"In addition to my experience in software development, I have had the privilege of working as a teacher at the Technological University of Buenos Aires, providing training at the National University of the Northwest of Buenos Aires (Junín) and in various secondary schools in my town.",
+				"This experience has allowed me to perfect my communication and content facilitation skills. Among other disciplines, I am passionate about robotics and electronics and 3D printing, as well as researching, learning new technologies and innovating, which allows me to contribute skills, knowledge, ideas and technologies in multiple ways."
+			],
+			"intros": [
+				"I have been a developer for over 30 years, working on projects ranging from web applications and video games to console applications.",
+				"You can explore all my projects on this website using the top menu. I appreciate you taking the time to check them out."
+			]
+		},
+		"projects": {
+			"title": "My Projects",
+			"description": "Here are my projects"
+		},
+		"languages": {
+			"title": "Used Tecnologies",
+			"description": "Languages I work with"
+		},
+		"contact": {
+			"title": "Contact me",
+		
+			"links": [
+				{
+					"text": "LinkedIn",
+					"url": "https://www.linkedin.com/in/mauricio-west-b59426286"
+				},
+				{
+					"text": "Portfolio/Web",
+					"url": "https://wtdevelopments.github.io/"
+				},
+				{ "text": "Git", "url": "https://github.com/mwest0101" },
+				{
+					"text": "Facebook",
+					"url": "https://www.facebook.com/profile.php?id=100095030215068"
+				},
+				{
+					"text": "Email: mauriciowest@gmail.com",
+					"url": "mailto:mauriciowest@gmail.com"
+				},
+				{ "text": "Country: Argentina", "url": "" },
+				{ "text": "City: Junin (Bs. As.)", "url": "" },
+				{ "text": "CP: 6000", "url": "" }
+			]
+		},
+		"projectsDetails": {
+			"projectDownload": "Links to projects and downloads"
+		},
+		"resume": {
+			"text": "Resume (English)",
+			"url": "pdfs/2023-07-07_Mauricio West_Curriculum Actualizado-Modelo 02-English.pdf"
+		},
+		"mygit": "(My projects in GitHub)"
+	},
+	"es": {
+		"nav": {
+			"home": "Inicio",
+			"projects": "Proyectos",
+			"languages": "Lenguajes",
+			"contact": "Contacto"
+		},
+		"home": {
+			"title": "Bienvenido",
+            "lastWorks": "Últimos Trabajos",
+			"description": [
+				"Soy Mauricio West, Analista de Sistemas, un profesional altamente motivado y experimentado en el desarrollo web y de software en general, con una sólida trayectoria en el desarrollo de aplicaciones Web, Móviles y de Escritorio.",
+				"Con una carrera que abarca más de 25 años, he trabajado en el desarrollo de portales de uso intensivo para empresas en España, Estados Unidos y Argentina, así como para compañías telefónicas.",
+				"Durante este tiempo, he adquirido habilidades en PHP, MySQL, JavaScript, Pasarelas de Pago, Unity 3D, Java, C++, Node, React, Python, entre otros.",
+				"Además de mi experiencia en desarrollo de software, he tenido el privilegio de trabajar como docente en la Universidad Tecnológica de Buenos Aires, brindando formación en la Universidad Nacional del Noroeste de Buenos Aires (Junín) y en diversas escuelas secundarias de mi localidad.",
+				"Esta experiencia me ha permitido perfeccionar mis habilidades de comunicación y facilitación de contenidos. Entre otras disciplinas, me apasionan la robótica, la electrónica y la impresión 3D, así como investigar, aprender nuevas tecnologías e innovar, lo que me permite contribuir con habilidades, conocimientos, ideas y tecnologías de múltiples maneras."
+			],
+			"intros": [
+				"Soy desarrollador desde hace más de 30 años, trabajando en proyectos que van desde aplicaciones web y videojuegos hasta aplicaciones de consola o terminal.",
+				"Puedes explorar todos mis proyectos en este sitio web utilizando el menú superior. Agradezco que te tomes el tiempo para revisarlos."
+			]
+		},
+		"projects": {
+			"title": "Mis Proyectos",
+			"description": "Aquí están mis proyectos"
+		},
+		"languages": {
+			"title": "Tecnologias utilizadas",
+			"description": "Lenguajes con los que trabajo"
+		},
+		"contact": {
+			"title": "Contáctame",
+			
+
+			"links": [
+				{
+					"text": "LinkedIn",
+					"url": "https://www.linkedin.com/in/mauricio-west-b59426286"
+				},
+				{
+					"text": "Portfolio/Web",
+					"url": "https://wtdevelopments.github.io/"
+				},
+				{ "text": "Git", "url": "https://github.com/mwest0101" },
+				{
+					"text": "Facebook",
+					"url": "https://www.facebook.com/profile.php?id=100095030215068"
+				},
+				{
+					"text": "Email: mauriciowest@gmail.com",
+					"url": "mailto:mauriciowest@gmail.com"
+				},
+				{ "text": "Country: Argentina", "url": "" },
+				{ "text": "City: Junin (Bs. As.)", "url": "" },
+				{ "text": "CP: 6000", "url": "" }
+			]
+		},
+		"projectsDetails": {
+			"projectDownload": "Enlaces a proyectos y descargas"
+		},
+		"resume": {
+			"text": "Curriculum (Español)",
+			"url": "pdfs/2023-07-07_Mauricio West_Curriculum Actualizado-Modelo 02-Español.pdf"
+		},
+		"mygit": "(Mis proyectos en GitHub)"
+	}
+}
