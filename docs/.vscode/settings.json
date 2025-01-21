@@ -1,5 +1,6 @@
 {
-   "yaml.customTags": [
-      "!script"
-   ]
+    "yaml.customTags": [
+        "!script"
+    ],
+    "liveServer.settings.port": 5501
 }
