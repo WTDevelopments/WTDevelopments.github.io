@@ -9,6 +9,7 @@
 		"home": {
 			"title": "Welcome",
             "lastWorks": "Last Works",
+            "myParticipations": "My participations (Youtube/TV)",
             "description": [
 				"I am Mauricio West, Systems Analyst, a highly motivated and experienced professional in web and software development in general, with a solid background in the development of Web, Mobile and Desktop applications.",
 				"With a career spanning more than 25 years, I have worked in the development of intensive use portals for companies in Spain, the United States and Argentina, as well as for cell phone companies.",
@@ -74,6 +75,7 @@
 		"home": {
 			"title": "Bienvenido",
             "lastWorks": "Últimos Trabajos",
+            "myParticipations": "Mis participaciones (Youtube/TV)",
 			"description": [
 				"Soy Mauricio West, Analista de Sistemas, un profesional altamente motivado y experimentado en el desarrollo web y de software en general, con una sólida trayectoria en el desarrollo de aplicaciones Web, Móviles y de Escritorio.",
 				"Con una carrera que abarca más de 25 años, he trabajado en el desarrollo de portales de uso intensivo para empresas en España, Estados Unidos y Argentina, así como para compañías telefónicas.",
