@@ -9,9 +9,8 @@
 <body>
 <div id="root"></div>
 <!-- Elfsight Visitor Counter | Visit Counter -->
-<center>
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-efc14c45-8fe5-4576-bae0-2499457f641e" data-elfsight-app-lazy></div>
-</center>
+
 
 </body></html>
