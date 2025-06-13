@@ -40,6 +40,22 @@
                 "detail": "Interview in the Dominio 3D program, a spin-off of the Dominio Digital show broadcast on TV and currently on YouTube. (On air since 1996)",
                 "img": "../img/MisParticipaciones/00003_dominio_3d_entrevista_0001.png",
                 "url": "https://youtu.be/bvsxIpWRSo8?t=2754"
+            },
+            {
+                "id": 2,
+                "time": "03-07-2020",
+                "title": "Technical Drawing in Video Games Part 2",
+                "detail": "Class for children, recognizing types of perspectives and drawings used in video games",
+                "img": "../img/MisParticipaciones/00002_clase_t2_dibujoEnLosVideoJeugos_parte02.png",
+                "url": "https://youtu.be/ziKUzlEbB2M?t=912"
+            },
+            {
+                "id": 1,
+                "time": "26-06-2020",
+                "title": "Technical Drawing in Video Games Part 1",
+                "detail": "Class for children, recognizing types of perspectives and drawings used in video games",
+                "img": "../img/MisParticipaciones/00001_clase_t2_dibujoEnLosVideoJeugos_parte01.png",
+                "url": "https://youtu.be/qP_CycAcrKI?t=627"
             }
         ]
     ],
@@ -83,6 +99,22 @@
             "detail": "Entrevista en el programa Dominio 3D , Derivado del programa Dominio Digital emitido en TV y actualmente YouTube. (En el aire desde 1996)",
             "img": "../img/MisParticipaciones/00003_dominio_3d_entrevista_0001.png",
             "url": "https://youtu.be/bvsxIpWRSo8?t=2754"
+        },
+        {
+            "id": 2,
+            "time": "03-07-2020",
+            "title": "El dibujo tecnico en los video juegos Parte 2",
+            "detail": "Clase a niños, Reconociendo los tipos de perspectivas y dibujos aplicados a los video juegos",
+            "img": "../img/MisParticipaciones/00002_clase_t2_dibujoEnLosVideoJeugos_parte02.png",
+            "url": "https://youtu.be/ziKUzlEbB2M?t=912"
+        },
+        {
+            "id": 1,
+            "time": "26-06-2020",
+            "title": "El dibujo tecnico en los video juegos Parte 1",
+            "detail": "Clase  a niños, Reconociendo los tipos de perspectivas y dibujos aplicados a los video juegos",
+            "img": "../img/MisParticipaciones/00001_clase_t2_dibujoEnLosVideoJeugos_parte01.png",
+            "url": "https://youtu.be/qP_CycAcrKI?t=627"
         }
     ]
 }
