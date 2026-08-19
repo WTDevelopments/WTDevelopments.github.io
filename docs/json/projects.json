@@ -155,6 +155,8 @@
       "media": [
         { "type": "image","width":"50%", "url": "../img/01400/WallMatrix01.png" },
         { "type": "image","width":"50%", "url": "../img/01400/WallMatrix02.png" },
+        { "type": "image","width":"50%", "url": "../img/01400/WallMatrix03.png" },
+        { "type": "image","width":"50%", "url": "../img/01400/WallMatrix04.png" },
         { "type": "youtube","width":"340", "height":"236", "url": "https://www.youtube.com/watch?v=6hfNqn-imqs" }
         
       ],
