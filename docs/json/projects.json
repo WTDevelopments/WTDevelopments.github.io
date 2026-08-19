@@ -1,6 +1,6 @@
 [
     {
-      "id": 13,
+      "id": 14,
       "year": "2024",
       "techStack": ["GODOT"],
       "category": "VideoGame",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "year": "2023",
       "techStack": ["React Native"],
       "category": "Mobile",
@@ -60,7 +60,7 @@
       ]
     },
     {
-        "id": 11,
+        "id": 12,
         "year": "2023",
         "techStack": ["React Native"],
         "category": "Mobile",
@@ -89,7 +89,7 @@
           
         ]
       },{
-        "id": 10,
+        "id": 11,
         "year": "2023",
         "techStack": ["React Native"],
         "category": "Mobile",
@@ -130,6 +130,38 @@
           
         ]
       },{
+      "id": 10,
+      "year": "2023",
+      "techStack": ["C++"],
+      "category": "Arduino",
+     "en": {
+            "title": "EEST2 Big Matrix LED",
+            "description": "Software development for a light matrix system (E.E.S.T. Nº2)",
+            "detailDescription": [
+                "Software development for a giant light matrix system installed on a wall at E.E.S.T. Nº2 School (Junín, Buenos Aires)"
+            ],
+            "status": "Completed",
+            "altCardImage": "LED Matrix"
+        },
+      "es": {
+        "title": "EEST2 Big Matrix Led",
+        "description":"Programacion del softawre para un sistema matriz de luces(E.E.S.T. Nº2)",
+        "detailDescription":["Programacion del softawre para un sistema matriz de luces gigante en una pared para la escuela EEST Nº2 (Junin Bs. As.)"],
+        
+        "status": "Completado",
+        "altCardImage": "Matriz Led"
+      },
+      "cardImage": "../img/card/card_wallmatrix.png.png",
+      "media": [
+        { "type": "image","width":"50%", "url": "../img/01400/WallMatrix01.png" },
+        { "type": "image","width":"50%", "url": "../img/01400/WallMatrix01.png" },
+        { "type": "youtube","width":"340", "height":"236", "url": "https://www.youtube.com/watch?v=6hfNqn-imqs" }
+      ],
+      "linksAndDownloads": [
+        { "text": "Git Repo:",      "url": "https://github.com/mwest0101/EEST2BigScreenMatrixScreen.git" },
+        { "text": "Download Zip:",  "url": "../bin/EEST2BigScreenMatrixScreen-master.zip" }
+      ]
+    },{
         "id": 9,
         "year": "2022",
         "techStack": ["Laravel","PHP"],
