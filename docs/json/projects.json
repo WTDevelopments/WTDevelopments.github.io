@@ -151,7 +151,7 @@
         "status": "Completado",
         "altCardImage": "Matriz Led"
       },
-      "cardImage": "../img/card/card_wallmatrix.png.png",
+      "cardImage": "../img/card/card_wallmatrix.png",
       "media": [
         { "type": "image","width":"50%", "url": "../img/01400/WallMatrix01.png" },
         { "type": "image","width":"50%", "url": "../img/01400/WallMatrix01.png" },
